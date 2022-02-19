@@ -1,2 +1,0 @@
-# Inform
-js
